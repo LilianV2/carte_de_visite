@@ -1,0 +1,84 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgba(255, 255, 255, 0.4);
+    font-family: "Microsoft PhagsPa";
+    font-variant: titling-caps;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.container {
+    border: 1px solid transparent;
+    box-shadow: 1rem 1rem 3rem #969148;
+    border-radius: 1rem;
+    background-color: palegoldenrod;
+    width: 50rem;
+    height: 35rem;
+    position: relative;
+    left: 30rem;
+    top: 10rem;
+}
+
+.infos {
+    background-color: rgb(196, 190, 76);
+    border: 1px solid rgb(196, 190, 76);
+    box-shadow: -1rem 1rem 5rem 1rem rgb(89, 87, 27);
+    border-radius: 2rem;
+    width: 20rem;
+    height: 30rem;
+    position: relative;
+    left: 4rem;
+    top: 2rem;
+}
+
+.infos ul {
+    background-color: rgb(196, 190, 76);
+    margin-top: 3rem;
+}
+
+.infos ul li {
+    background-color: rgb(196, 190, 76);
+    list-style: none;
+    text-align: center;
+    line-height: 4rem;
+}
+
+.infos ul li a {
+    background-color: rgb(196, 190, 76);
+    text-decoration: none;
+    color: #4f4e20;
+    font-size: large;
+    font-weight: bolder;
+}
+
+.infos2 {
+    background-color: rgb(196, 190, 76);
+    border: 1px solid rgb(196, 190, 76);
+    box-shadow: 1rem 1rem 5rem 1rem rgb(89, 87, 27);
+    border-radius: 2rem;
+    width: 20rem;
+    height: 30rem;
+    position: relative;
+    left: 57rem;
+    bottom: 23rem;
+}
+
+.img {
+    border: 2px solid rgb(59, 57, 12);
+    border-radius: 1rem;
+    height: 10rem;
+    width: 8rem;
+    position: relative;
+    left: 6rem;
+    top: 2rem;
+}
+
+.infos2 p {
+    background-color: rgb(196, 190, 76);
+    line-height: 2rem;
+    text-align: center;
+    position: relative;
+    top: 5rem;
+}
